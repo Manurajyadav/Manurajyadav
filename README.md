@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manurajyadav&label=Profile%20views&color=0e75b6&style=flat" alt="manurajyadav" /> </p>
 
-- 🌱 I’m currently learning **Quant Development**
+- 🌱 I’m currently learning **Ai Development**
 
 - 📝 I regularly write articles on [https://medium.com/@manurajyadav](https://medium.com/@manurajyadav)
 
