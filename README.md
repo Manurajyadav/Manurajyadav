@@ -1,15 +1,15 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h1 align="center">Hi 👋, I'm Manu Raj Yadav</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manurajyadav&label=Profile%20views&color=0e75b6&style=flat" alt="manurajyadav" /> </p>
 
-- 🌱 I’m currently learning **Ai Development**
+- 🌱 I’m currently working in the field of **Data Engineering**
 
 - 📝 I regularly write articles on [https://medium.com/@manurajyadav](https://medium.com/@manurajyadav)
 
-- 💬 Ask me about **Python, ML**
+- 💬 Ask me about **Python, SQL, Data, ML**
 
 - ⚡ Fun fact **I can influence you**
 
